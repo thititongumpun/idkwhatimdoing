@@ -1,5 +1,5 @@
 import { Heading } from "./components/Heading";
-
+import {Label} from './components/Label';
 
 
 const App: React.FC = () => {
@@ -7,6 +7,7 @@ const App: React.FC = () => {
     <div className="App">
       <h3>Hello let begin Agian!?</h3>
       <Heading title="Hello Props from Heading" />
+      <Label title="Hello" content="Hello Props from Label" />
     </div>
   );
 }
