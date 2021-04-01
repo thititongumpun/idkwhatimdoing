@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { TodoListItem } from "./components/TodoListItem";
+import { AddTodo } from './components/AddTodo';
+import { TodoList } from './components/TodoList';
 
 const initialTodos: Todo[] = [
   {
@@ -27,12 +28,16 @@ const App: React.FC = () => {
     });
     setTodos(newTodos);
   }
+
+  const addTodo: AddTodo = (text: string) => {
+    const newTodo = { text, complete: false };
+    setTodos([...todos, newTodo]);
+  }
   return (
-    <ul className="App">
-      <h3>Hello let begin Agian!?</h3>
-      <TodoListItem todo={todos[0]} toggleTodo={toggleTodo} />
-      <TodoListItem todo={todos[1]} toggleTodo={toggleTodo} />
-    </ul>
+    <React.Fragment>
+      <TodoList todos={todos} toggleTodo={toggleTodo} />
+      <AddTodo addTodo={addTodo} />
+    </React.Fragment>
   );
 }
 
