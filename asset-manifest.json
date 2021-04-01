@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/thititongumpun/idkwhatimdoing/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/thititongumpun/idkwhatimdoing/static/js/main.c0cb3cc9.chunk.js",
-    "main.js.map": "/thititongumpun/idkwhatimdoing/static/js/main.c0cb3cc9.chunk.js.map",
-    "runtime-main.js": "/thititongumpun/idkwhatimdoing/static/js/runtime-main.c3fd7245.js",
-    "runtime-main.js.map": "/thititongumpun/idkwhatimdoing/static/js/runtime-main.c3fd7245.js.map",
-    "static/js/2.d1e0b519.chunk.js": "/thititongumpun/idkwhatimdoing/static/js/2.d1e0b519.chunk.js",
-    "static/js/2.d1e0b519.chunk.js.map": "/thititongumpun/idkwhatimdoing/static/js/2.d1e0b519.chunk.js.map",
-    "static/js/3.199235a6.chunk.js": "/thititongumpun/idkwhatimdoing/static/js/3.199235a6.chunk.js",
-    "static/js/3.199235a6.chunk.js.map": "/thititongumpun/idkwhatimdoing/static/js/3.199235a6.chunk.js.map",
-    "index.html": "/thititongumpun/idkwhatimdoing/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/thititongumpun/idkwhatimdoing/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d1e0b519.chunk.js.LICENSE.txt": "/thititongumpun/idkwhatimdoing/static/js/2.d1e0b519.chunk.js.LICENSE.txt"
+    "main.css": "/idkwhatimdoing/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/idkwhatimdoing/static/js/main.7595a5eb.chunk.js",
+    "main.js.map": "/idkwhatimdoing/static/js/main.7595a5eb.chunk.js.map",
+    "runtime-main.js": "/idkwhatimdoing/static/js/runtime-main.2b1d9d45.js",
+    "runtime-main.js.map": "/idkwhatimdoing/static/js/runtime-main.2b1d9d45.js.map",
+    "static/js/2.6a55daef.chunk.js": "/idkwhatimdoing/static/js/2.6a55daef.chunk.js",
+    "static/js/2.6a55daef.chunk.js.map": "/idkwhatimdoing/static/js/2.6a55daef.chunk.js.map",
+    "static/js/3.8dd0eac9.chunk.js": "/idkwhatimdoing/static/js/3.8dd0eac9.chunk.js",
+    "static/js/3.8dd0eac9.chunk.js.map": "/idkwhatimdoing/static/js/3.8dd0eac9.chunk.js.map",
+    "index.html": "/idkwhatimdoing/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/idkwhatimdoing/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6a55daef.chunk.js.LICENSE.txt": "/idkwhatimdoing/static/js/2.6a55daef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3fd7245.js",
-    "static/js/2.d1e0b519.chunk.js",
+    "static/js/runtime-main.2b1d9d45.js",
+    "static/js/2.6a55daef.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c0cb3cc9.chunk.js"
+    "static/js/main.7595a5eb.chunk.js"
   ]
 }
