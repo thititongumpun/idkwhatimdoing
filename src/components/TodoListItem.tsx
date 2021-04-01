@@ -15,7 +15,8 @@ export const TodoListItem: React.FC<Props> = ({ todo, toggleTodo }) => {
         onClick={() => {
           toggleTodo(todo);
         }}
-        /> {todo.text}
+        />{' '}
+        {todo.text}
       </label>
     </li>
   );
