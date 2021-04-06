@@ -9,8 +9,12 @@ const initialTodos: Todo[] = [
     complete: false
   },
   {
-    text: 'walk'
-    , complete: true
+    text: 'walk',
+    complete: true
+  },
+  {
+    text: 'eat',
+    complete: false
   }
 ];
 
